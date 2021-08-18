@@ -1,0 +1,7 @@
+C:\Users\sabolc\source\repos\RPGGyakorlo\RPGGyakorlo\obj\Debug\RPGGyakorlo.csproj.AssemblyReference.cache
+C:\Users\sabolc\source\repos\RPGGyakorlo\RPGGyakorlo\obj\Debug\RPGGyakorlo.csproj.CoreCompileInputs.cache
+C:\Users\sabolc\source\repos\RPGGyakorlo\RPGGyakorlo\bin\Debug\RPGGyakorlo.exe.config
+C:\Users\sabolc\source\repos\RPGGyakorlo\RPGGyakorlo\bin\Debug\RPGGyakorlo.exe
+C:\Users\sabolc\source\repos\RPGGyakorlo\RPGGyakorlo\bin\Debug\RPGGyakorlo.pdb
+C:\Users\sabolc\source\repos\RPGGyakorlo\RPGGyakorlo\obj\Debug\RPGGyakorlo.exe
+C:\Users\sabolc\source\repos\RPGGyakorlo\RPGGyakorlo\obj\Debug\RPGGyakorlo.pdb
